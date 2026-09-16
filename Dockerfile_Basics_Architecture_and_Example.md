@@ -9,7 +9,7 @@ It defines the environment required by an application, including:
 - Dependencies
 - Application code
 - Working directory
-- Ports
+- Ports 
 - Startup command
 
 A Dockerfile is normally named exactly:
