@@ -1,6 +1,6 @@
 # Docker Networks
 
-## What is a Docker Network?
+## What is a Docker Network? 
 
 A **Docker network** allows Docker containers to communicate with other containers, the host machine, and external networks.
 
