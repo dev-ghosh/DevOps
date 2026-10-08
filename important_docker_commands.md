@@ -4,7 +4,7 @@ A comprehensive cheat sheet for developers and DevOps engineers covering the mos
 
 ---
 
-## 🛠️ General & System Commands
+## 🛠️ General & System Commands 
 
 Commands for system maintenance, version checking, and inspecting Docker environment resource usage.
 
